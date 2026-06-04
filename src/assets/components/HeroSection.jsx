@@ -1,7 +1,6 @@
 import AboutImage from '../../assets/images/about_img.png';
 import { TypeAnimation } from 'react-type-animation';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
-// import resumepdf from "../../../public/Rajeev_Ranjan_Resume.pdf";
 
 
 const HeroSection = () => {
