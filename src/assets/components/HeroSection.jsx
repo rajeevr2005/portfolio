@@ -1,4 +1,4 @@
-import AboutImage from '../../assets/images/about_img.png';
+import AboutImage from '../images/About_img.png';
 import { TypeAnimation } from 'react-type-animation';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
