@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { toast } from "react-toastify";
 import { saveContact } from "../../services/contactService";
 import { FaLinkedin } from "react-icons/fa";
-import resumepdf from "../../../public/Rajeev Ranjan Resume.pdf"
 import { LuMail, LuLink, LuCaravan } from "react-icons/lu";
 import { BiLocationPlus } from "react-icons/bi";
 
@@ -135,7 +134,7 @@ const Contact = () => {
 
                         <div className="mb-4">
                             <a
-                                href={resumepdf}
+                                href="/Rajeev_Ranjan_Resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="btn btn-accent text-white gap-2"

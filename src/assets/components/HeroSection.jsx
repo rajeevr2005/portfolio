@@ -36,7 +36,7 @@ const HeroSection = () => {
                     </p>
 
                     <div className="flex flex-wrap items-center gap-4">
-                        <a href="/Rajeev Ranjan Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-accent rounded-full shadow-lg hover:shadow-accent/50 transition-all hover:border hover:border-white text-white px-8">
+                        <a href="/Rajeev_Ranjan_Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-accent rounded-full shadow-lg hover:shadow-accent/50 transition-all hover:border hover:border-white text-white px-8">
                             Download Resume
                         </a>
 
