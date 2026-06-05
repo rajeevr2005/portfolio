@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="navbar bg-base-100 shadow-sm px-4 fixed top-0 left-0 w-full z-50">
             {/* Left Side */}
             <div className="navbar-start">
-                <h4 className="text-[26px] font-bold cursor-pointer ps-2 lg:ps-12">
+                <h4 className="text-xl lg:text-[26px] font-bold cursor-pointer ps-2 lg:ps-12">
                     Rajeev Ranjan
                 </h4>
             </div>

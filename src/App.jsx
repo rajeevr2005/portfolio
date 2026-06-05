@@ -1,5 +1,4 @@
 import React from 'react';
-import WelcomeModal from './assets/components/WelcomeModal';
 import Navbar from '../src/assets/components/Navbar';
 import HeroSection from '../src/assets/components/HeroSection';
 import Contact from '../src/assets/components/Contact';
@@ -26,9 +25,8 @@ const App = () => {
     return (
         <>
             <Navbar />
-            <WelcomeModal />
             <BackToTop />
-            <div className="pt-24 bg-base-200">
+            <div className="w-full min-h-screen pt-24 bg-base-200 overflow-x-hidden">
                 <HeroSection />
                 <Experience />
                 <Education />

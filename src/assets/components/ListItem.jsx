@@ -52,7 +52,7 @@ const ListItem = () => {
                     to="education"
                     smooth={true}
                     duration={1500}
-                    offset={-90}
+                    offset={-110}
                 >
                     <LuGraduationCap size={20} color="#A855F7" />
                     Education
@@ -64,7 +64,7 @@ const ListItem = () => {
                     to="projects"
                     smooth={true}
                     duration={1500}
-                    offset={-90}
+                    offset={-40}
                 >
                     <LuFolderKanban size={20} color="#F97316" />
                     Project
