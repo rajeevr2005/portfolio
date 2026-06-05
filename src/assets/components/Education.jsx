@@ -2,7 +2,7 @@ import { BlueTick } from "../components/svgicon.jsx";
 
 const Education = () => {
     return (
-        <section className="w-full flex justify-center lg:*:py-10 " id="education">
+        <section className="w-full flex justify-center lg:py-10 lg:px-4 my-5" id="education">
             <div className="w-full max-w-6xl card bg-base-100 shadow-xl py-10 px-4" data-aos="fade-up">
 
                 <h2 className="text-3xl font-bold text-center mb-10">

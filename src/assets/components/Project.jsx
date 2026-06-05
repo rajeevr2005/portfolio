@@ -33,7 +33,7 @@ const projects = [
 
 const Project = () => {
     return (
-        <div className="w-full px-4 flex justify-center py-10" id="projects">
+        <div className="w-full lg:px-4 flex justify-center py-10" id="projects">
             <div className="w-full card bg-base-100 shadow-xl py-10" data-aos="fade-up">
                 <h2 className="text-3xl font-bold text-center mb-8">
                     Projects

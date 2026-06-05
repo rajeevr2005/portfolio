@@ -49,7 +49,7 @@ const Skills = () => {
     return (
         <section
             id="skills"
-            className="w-full px-4 flex justify-center py-4"
+            className="w-full lg:px-4 flex justify-center py-4"
         >
             <div className="w-full card bg-base-100 shadow-xl py-10" data-aos="fade-up">
                 

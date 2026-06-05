@@ -114,7 +114,7 @@ const Contact = () => {
     };
 
     return (
-        <div className="w-full py-12 px-4 flex justify-center"id="contact">
+        <div className="w-full py-12 md:px-2 lg:px-4 flex justify-center"id="contact">
             <div className="w-full max-w-6xl flex flex-col lg:flex-row gap-8">
 
                 {/* Left Side Contact Details */}
